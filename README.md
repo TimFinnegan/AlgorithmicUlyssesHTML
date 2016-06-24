@@ -24,3 +24,7 @@ changes:
 
 - html table for Bloom's budget
 
+- gifs for music
+
+
+
