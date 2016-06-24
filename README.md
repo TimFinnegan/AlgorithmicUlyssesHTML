@@ -1,10 +1,12 @@
 # AlgorithmicUlyssesHTML
 tweaking the 'algorithmic ulysses' editions for readability
 
-
+derived from:
 http://web.uvic.ca/~mvp1922/the-algorithmic-ulysses/
-
 1922 Shakespeare and Co.
+
+Click the green "Clone or download" button in the upper right, then "Download ZIP". The unzipped folder holds "onepage.html" and "onepage.docx" plus the required gifs for the html.
+
 
 changes:
 
